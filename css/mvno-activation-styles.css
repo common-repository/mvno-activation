@@ -1,0 +1,68 @@
+.mvno-activations-loader-center
+{
+    position: absolute;
+    top: 0.5%;
+    opacity: 6.5;
+    background-color: #80808070;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: none;
+}
+
+.mvno-activations-loader-center > img
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -250px;
+}
+
+.mvno_activation_error {
+    color: #ff3748;
+    background: #fffc;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+.activation{
+    
+  font-size:24px !important;
+  width:100%;
+    
+}
+.wp-core-ui select {
+    font-size: 14px;
+    line-height: 2;
+    color: #32373c;
+    border-color: #7e8993;
+    box-shadow: none;
+    border-radius: 3px;
+    padding: 0 24px 0 8px;
+    min-height: 30px;
+    max-width: 100%;
+    -webkit-appearance: none;
+    background: #fff url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E') no-repeat right 5px top 55%;
+        background-size: auto;
+    background-size: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.main_box {
+    max-width: 500px;
+    margin-top: 0px;
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: #fff !important;
+}
+
+.form-wrap label {
+    display: block;
+    padding: 2px 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color:#fff;
+}
